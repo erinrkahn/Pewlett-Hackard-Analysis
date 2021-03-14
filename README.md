@@ -3,6 +3,7 @@
 ## Overview of the Analysis 
 
 ### Purpose
+The purpose of this analysis is to determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program. With many employees eligible for retirement, this analysis will support planning for hiring, as well as a proposal for a mentorship program, where retiring employees opt to stay on part-time to mentor new staff. This analysis and included queries utilized the following company information within a SQL database; employee information, department and manager data, and employee salaries and titles.
 
 ## Results
 

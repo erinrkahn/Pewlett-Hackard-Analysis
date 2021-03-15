@@ -23,7 +23,7 @@ FROM retirement_titles AS r
 ORDER BY r.emp_no ASC, r.to_date DESC;
 
 -- Count of employess grouped by title, create retiring_titles table
-SELECT title, COUNT(*) AS emp_count
+SELECT COUNT(*) AS emp_count, title
 INTO retiring_titles
 FROM unique_titles
 GROUP BY title

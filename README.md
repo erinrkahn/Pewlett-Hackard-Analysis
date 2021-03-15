@@ -25,13 +25,13 @@ The purpose of this analysis is to determine the number of retiring employees pe
 
 __How many roles will need to be filled as the "silver tsunami" begins to make an impact?__
 
-*
+* Over the course of 5 years, there will potentially be 41,380 positions that need to be filled, with 1,549 of those opening up more immediately. The 1,549 individuals that will be retiring soon are candidates for the mentorship program. 
 
 __Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?__
 
-*
+* There are currently not enough retirement-ready employees in certain departments to mentor the next generation, specifically the engineering department. For some titles, there would be a 100:1 or more ratio of new employees to mentor. 
 
-#### Additional Considerations
+### Additional Considerations
 
 * An additional query that will be helpful to the company is a title count for individuals within the mentorship eligible group. We can see that compared to the retiring employee count per title, they may need to adjust where they have support. There is a higher need for hiring within the positions of Senior Engineer, Senior Staff and Engineer while the top titles of the mentoring group include Senior Staff and Engineer, they may need more mentors within the Senior Engineering group.  
 ###### Title Count for Mentorship Eligible Group
